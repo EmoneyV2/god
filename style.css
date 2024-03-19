@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Arka&display=swap');
+
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Arka', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f7f4ea; /* Light beige background */
