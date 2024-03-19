@@ -26,15 +26,15 @@ document.addEventListener('DOMContentLoaded', function() {
         };
 
         const godDescriptions = {
-            'Athena': 'Athena is the goddess of wisdom, courage, inspiration, civilization, law and justice, strategic warfare, mathematics, strength, strategy, the arts, crafts, and skill.',
-            'Artemis': 'Artemis is the goddess of the hunt, wilderness, childbirth, virginity, and protector of young girls, bringing and relieving disease in women.',
-            'Aphrodite': 'Aphrodite is the goddess of love, beauty, pleasure, passion, and procreation.',
-            'Poseidon': 'Poseidon is the god of the sea, earthquakes, and horses.',
-            'Zeus': 'Zeus is the god of the sky, lightning, thunder, law, order, and justice.',
-            'Ares': 'Ares is the god of war, violence, bloodshed, and manly virtues.',
-            'Hera': 'Hera is the goddess of marriage, women, childbirth, and family.',
-            'Hades': 'Hades is the god of the dead and the king of the underworld.',
-            'Apollo': 'Apollo is the god of music, arts, knowledge, healing, plague, prophecy, poetry, manly beauty, and archery.'
+            'Athena': 'Athena is the goddess of wisdom, courage, inspiration, civilization, law and justice, People who get Athena are usually strong minded and patient',
+            'Artemis': 'Artemis is the goddess of the hunt, wilderness, childbirth, virginity, People who get Artemis usually enjoy nature and love caring for others.',
+            'Aphrodite': 'Aphrodite is the goddess of love, beauty, pleasure, passion, People who get Aphrodite are usually the fairest of them all and beleive in self care more than anything else.',
+            'Poseidon': 'Poseidon is the god of the sea, earthquakes, and horses, People who get posedion are very fluid with their life and beleive all people are equal',
+            'Zeus': 'Zeus is the god of the sky, lightning, thunder, law, order, and justice, People who get Zeus are natural born leaders and protectors of the ones they love',
+            'Ares': 'Ares is the god of war, violence, bloodshed, and manly virtues, People who get Ares tend to put strength over everything',
+            'Hera': 'Hera is the goddess of marriage, women, childbirth, and family, People who get Hera are family oriented and believe in protecting their people before anyone else',
+            'Hades': 'Hades is the god of the dead and the king of the underworld, People who get Hades tend to keep to themselves but are still very intelligent.',
+            'Apollo': 'Apollo is the god of music, arts, knowledge, healing, plague, prophecy, People who get Apollo can be considered self centered yet still kind'
         };
 
         const godImages = {
