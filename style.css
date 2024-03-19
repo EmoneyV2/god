@@ -48,7 +48,7 @@ button:hover {
     background-color: #e74c3c; /* Darker red on hover */
 }
 
-#result {
+result {
     display: none;
     margin-top: 20px;
     padding: 20px;
@@ -58,18 +58,18 @@ button:hover {
     text-align: center; /* Center align the content */
 }
 
-#god-image {
+god-image {
     max-width: 100%;
     border-radius: 50%; /* Make the image round */
     margin: 0 auto; /* Center the image horizontally */
 }
 
-#result h2 {
+result h2 {
     color: #2c3e50; /* Dark blue text */
     font-size: 24px;
 }
 
-#result p {
+result p {
     color: #34495e; /* Darker blue text */
     font-size: 18px;
 }
