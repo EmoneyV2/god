@@ -1,63 +1,75 @@
-@import url('https://fonts.googleapis.com/css2?family=Arka&display=swap') ;
+@import url('https://fonts.googleapis.com/css2?family=Arka&display=swap');
+
 body {
-font-family : 'Arka', sans-serif;
-margin : 0;
-padding : 0;
-background-color : #f7f4ea;
+    font-family: 'Arka', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f4ea; /* Light beige background */
 }
+
 .container {
-max-width : 800px;
-margin : 50px auto;
-padding : 20px;
-background-color : #fff;
-border-radius : 10px;
-box-shadow : 0 0 10px rgb(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff; /* White container background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
 }
+
 h1 {
-text-align : center;
-color : #2c3e50;
-font-size : 36px;
+    text-align: center;
+    color: #2c3e50; /* Dark blue text */
+    font-size: 36px;
 }
+
 h2 {
-color : #2c3e50;
-font-size : 24px;
+    color: #2c3e50; /* Dark blue text */
+    font-size: 24px;
 }
+
 form {
-margin-bottom : 20px;
+    margin-bottom: 20px;
 }
+
 input[type="radio"] {
-margin-right : 10px;
+    margin-right: 10px;
 }
+
 button {
-padding : 10px 20px;
-background-color : #c0392b;
-color : #fff;
-border : none;
-border-radius : 5px;
-cursor : pointer;
+    padding: 10px 20px;
+    background-color: #c0392b; /* Red button, inspired by fire */
+    color: #fff; /* White text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
-button:hover {
-background-color : #e74c3c;
+
+button: hover {
+    background-color: #e74c3c; /* Darker red on hover */
 }
-result {
-display : none;
-margin-top : 20px;
-padding : 20px;
-background-color : #ecf0f1;
-border-radius : 5px;
-box-shadow : 0 0 5px rgb(0, 0, 0, 0.1);
-text-align : center;
+
+#result {
+    display: none;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ecf0f1; /* Light grey background */
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    text-align: center; /* Center align the content */
 }
-god-image {
-max-width : 100%;
-border-radius : 50%;
-margin : 0 auto;
+
+#god-image {
+    max-width: 100%;
+    border-radius: 50%; /* Make the image round */
+    margin: 0 auto; /* Center the image horizontally */
 }
-result h2 {
-color : #2c3e50;
-font-size : 24px;
+
+#result h2 {
+    color: #2c3e50; /* Dark blue text */
+    font-size: 24px;
 }
-result p {
-color : #34495e;
-font-size : 18px;
+
+#result p {
+    color: #34495e; /* Darker blue text */
+    font-size: 18px;
 }
